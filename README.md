@@ -5,7 +5,7 @@ Welcome to my submission for the Code of Africa (COA) Take-Home Challenge. This 
 ## Interactive Photo Gallery
 
 Experience the Interactive Photo Gallery live on any device and browser by visiting the following link:
-[Interactive Photo Gallery Demo](https://eloxpro.github.io/COA-Take-home-Challenge/)
+[Interactive Photo Gallery Demo](https://eloxpro.github.io/COA-Take-Home-Challenge/)
 
 **Note:** If you encounter issues loading the fonts, it might be due to browser caching. Please clear your cache or open the site in an incognito or private tab.
 
