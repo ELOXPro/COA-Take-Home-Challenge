@@ -2,6 +2,8 @@
 
 Welcome to my submission for the Code of Africa (COA) Take-Home Challenge. This challenge consists of three parts: Interactive Photo Gallery, Array Manipulation, and String Transformation. Follow the instructions below to explore the code and demos.
 
+But first you will need to clone this repository to your local machine or download it as a .zip file.
+
 ## Interactive Photo Gallery
 
 Experience the Interactive Photo Gallery live on any device and browser by visiting the following link:
